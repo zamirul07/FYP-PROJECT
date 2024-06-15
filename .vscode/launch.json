@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GettingStartedApplication",
+            "request": "launch",
+            "mainClass": "com.heroku.java.GettingStartedApplication",
+            "projectName": "java-getting-started"
+        }
+    ]
+}
